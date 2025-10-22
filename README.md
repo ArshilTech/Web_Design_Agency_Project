@@ -11,7 +11,7 @@ It represents a fictional design agency that focuses on **Beauty**, **Constructi
 - ✅ Responsive design that works across all devices  
 - 🎨 Modern and clean layout  
 - 🧩 Uses **Google Fonts (Poppins)**
-- 
+
 ---
 
 ## 🧰 Technologies Used
